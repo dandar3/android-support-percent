@@ -1,20 +1,18 @@
-android-support-percent
-======================
+## android-support-percent
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/android/m2repository/com/android/support/percent/23.4.0/percent-23.4.0.aar`
+`ANDROID_SDK/extras/android/m2repository/com/android/support/percent/24.0.0/percent-24.0.0.aar`
 
-Requires (to compile):<br/>
-`Android 6.0 (API 23) SDK Platform`
+**Requires:**
+- `Android N (API 24) SDK Platform`
+- [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4)
 
-Requires libraries:</br>
-* [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4)
+**References:**
+- https://developer.android.com/topic/libraries/support-library/revisions.html
+- https://developer.android.com/topic/libraries/support-library/features.html#percent
 
-Subversion checkout URL:<br/>
-* https://github.com/dandar3/android-support-percent/tags/23.4.0
-
-Resources:<br/>
-* https://developer.android.com/tools/support-library/index.html#revisions
-* https://developer.android.com/tools/support-library/features.html#percent
-* https://plus.google.com/+AndroidDevelopers/posts/B7QhFkWZ6YX
-* https://android-developers.blogspot.com/2016/02/android-support-library-232.html
+**SVN checkout:**
+- `Eclipse ADT`<br/>
+  https://github.com/dandar3/android-support-percent/tags/24.0.0
+- `Eclipse Andmore`<br/>
+  https://github.com/dandar3/android-support-percent/tags/24.0.0_andmore
