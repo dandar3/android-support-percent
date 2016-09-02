@@ -5,7 +5,7 @@ Eclipse library project based on:<br/>
 
 **Requires:**
 - `Android 7.0 (API 24) SDK Platform`
-- [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4)
+- [dandar3/android-support-compat](https://github.com/dandar3/android-support-compat)
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html
